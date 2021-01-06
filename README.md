@@ -1,5 +1,5 @@
 # Project Name
-CSS practice
+HTML, CSS, Bootstrap practice
 
 ## Table of contents
 * [General info](#general-info)
