@@ -1,0 +1,69 @@
+body {
+    min-width: 20%;
+    max-width: 20%;
+    margin: 50px auto;
+    text-align: center;
+    font-family: "rooney-sans", Avenir-Book, Calibri, sans-serif;
+    line-height: 1.4;
+    font-size: 1rem;
+}
+
+.update-info {
+    background-color: #424242;
+    color: white;
+    padding: 15px 10px 15px 10px;
+    margin-bottom: 15px;
+}
+
+.display {
+    margin: 0;
+}
+
+.progress-bar {
+    background-color: #EF5F3C;
+}
+
+.main-box {
+    text-align: left;
+    border: 2px solid #eaeaea;
+    padding: 15px;
+}
+
+.span1 {
+    font-weight: 700;
+}
+
+.span2 {
+    color: #EF5F3C;
+    font-weight: 700;
+}
+
+.row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.top {
+    margin: 0;
+}
+
+::placeholder {
+    color: #424242;
+    font-weight: 700;
+}
+
+
+.bottom {
+    margin-top: 15px;
+}
+
+.question {
+    color: #20A1D4;
+    margin-top: 10px;
+}
+
+.buttons {
+    color: #777;
+    font-weight: 700;
+}
