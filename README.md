@@ -3,6 +3,7 @@ HTML, CSS, Bootstrap practice
 
 ## Table of contents
 * [General info](#general-info)
+* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
@@ -10,6 +11,9 @@ HTML, CSS, Bootstrap practice
 
 ## General info
 Recreated piece of a donation page to practice HTML, CSS and Bootstrap.
+
+## Screenshots
+![Example screenshot](Calculator.png)
 
 ## Technologies
 * Tech 1 - HTML5
