@@ -13,7 +13,7 @@ HTML, CSS, Bootstrap practice
 Recreated piece of a donation page to practice HTML, CSS and Bootstrap.
 
 ## Screenshots
-![Example screenshot](CSS_Bootstrap_practice.png)
+![Piece of a donation page](CSS_Bootstrap_practice.png)
 
 ## Technologies
 * Tech 1 - HTML5
